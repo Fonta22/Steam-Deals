@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Arabic",
+    "code": "ar",
+    "steamworks": "arabic",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=arabic"
+  },
+  {
+    "name": "Bulgarian",
+    "code": "bg",
+    "steamworks": "bulgarian",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=bulgarian"
+  },
+  {
+    "name": "Chinese (Simplified)",
+    "code": "zh-CN",
+    "steamworks": "schinese",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=schinese"
+  },
+  {
+    "name": "Chinese (Traditional)",
+    "code": "zh-TW",
+    "steamworks": "tchinese",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=tchinese"
+  },
+  {
+    "name": "Czech",
+    "code": "cs",
+    "steamworks": "czech",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=czech"
+  },
+  {
+    "name": "Danish",
+    "code": "da",
+    "steamworks": "danish",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=danish"
+  },
+  {
+    "name": "Dutch",
+    "code": "nl",
+    "steamworks": "dutch",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=dutch"
+  },
+  {
+    "name": "English",
+    "code": "en",
+    "steamworks": "english",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=english"
+  },
+  {
+    "name": "Finnish",
+    "code": "fi",
+    "steamworks": "finnish",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=finnish"
+  },
+  {
+    "name": "French",
+    "code": "fr",
+    "steamworks": "french",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=french"
+  },
+  {
+    "name": "German",
+    "code": "de",
+    "steamworks": "german",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=german"
+  },
+  {
+    "name": "Greek",
+    "code": "el",
+    "steamworks": "greek",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=greek"
+  },
+  {
+    "name": "Hungarian",
+    "code": "hu",
+    "steamworks": "hungarian",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=hungarian"
+  },
+  {
+    "name": "Italian",
+    "code": "it",
+    "steamworks": "italian",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=italian"
+  },
+  {
+    "name": "Japanese",
+    "code": "ja",
+    "steamworks": "japanese",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=japanese"
+  },
+  {
+    "name": "Korean",
+    "code": "ko",
+    "steamworks": "koreana",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=koreana"
+  },
+  {
+    "name": "Norwegian",
+    "code": "no",
+    "steamworks": "norwegian",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=norwegian"
+  },
+  {
+    "name": "Polish",
+    "code": "pl",
+    "steamworks": "polish",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=polish"
+  },
+  {
+    "name": "Portuguese (Brazil)",
+    "code": "pt-BR",
+    "steamworks": "brazilian",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=brazilian"
+  },
+  {
+    "name": "Portuguese (Portugal)",
+    "code": "pt",
+    "steamworks": "portuguese",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=portuguese"
+  },
+  {
+    "name": "Romanian",
+    "code": "ro",
+    "steamworks": "romanian",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=romanian"
+  },
+  {
+    "name": "Russian",
+    "code": "ru",
+    "steamworks": "russian",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=russian"
+  },
+  {
+    "name": "Spanish (Latin America)",
+    "code": "es-419",
+    "steamworks": "latam",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=latam"
+  },
+  {
+    "name": "Spanish (Spain)",
+    "code": "es",
+    "steamworks": "spanish",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=spanish"
+  },
+  {
+    "name": "Swedish",
+    "code": "sv",
+    "steamworks": "swedish",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=swedish"
+  },
+  {
+    "name": "Thai",
+    "code": "th",
+    "steamworks": "thai",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=thai"
+  },
+  {
+    "name": "Turkish",
+    "code": "tr",
+    "steamworks": "turkish",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=turkish"
+  },
+  {
+    "name": "Ukrainian",
+    "code": "uk",
+    "steamworks": "ukrainian",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=ukrainian"
+  },
+  {
+    "name": "Vietnamese",
+    "code": "vn",
+    "steamworks": "vietnamese",
+    "url": "https://store.steampowered.com/api/featuredcategories/?l=vietnamese"
+  }
+]
